@@ -1,0 +1,40 @@
+.banner{
+    background-image: url('../img/fundo/mapa1.jpg');
+    background-size: cover;
+    position: relative;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    margin-top: -90px;
+}
+.divVideo{
+    margin: 190px 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.sobreBanner{
+    border-radius: 30px;
+    margin: 190px 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.logoText{
+    width: 50%;
+}
+.divVideo p{
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+}
+.miniLogos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+}
+.miniLogo{
+    width: 50px;
+}
