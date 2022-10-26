@@ -1,3 +1,5 @@
+import React  from 'react';
+
 import Header from "./header/header.js";
 import Banner from "./banner/banner.js";
 

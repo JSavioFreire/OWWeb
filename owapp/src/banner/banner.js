@@ -1,4 +1,5 @@
 import './banner.css'
+import React from 'react';
 
 import Video from "../video/video";
 import logoText from '../img/logo/logoText.png'
